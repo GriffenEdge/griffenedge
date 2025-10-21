@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m working at SSW
-- 📫 How to reach me: @griffenedge
+- 🔭 I’m working at @SSWConsulting
+- 📫 How to reach me: @GriffenEdge
 - 😄 Pronouns: He/Him
 
 <!--
