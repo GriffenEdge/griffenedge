@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
-
-[![Griffen Edge's github stats](https://github-readme-stats.vercel.app/api?username=griffenedge&amp;theme=dark)](https://github.com/griffenedge/github-readme-stats)
