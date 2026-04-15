@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m working at @SSWConsulting
-- 📫 How to reach me: @GriffenEdge
+I'm Griffen, a UX Designer designing better digital experiences and bringing them to life in code.
+
+- 🎯 Focused on product design, usability, and clear interaction
+- ⚡ Building prototypes, websites, and content-driven experiences
+- 🧩 Interested in design systems, developer handoff, and shipping quality work
+- 📫 Reach me: @GriffenEdge
 - 😄 Pronouns: He/Him
 
 <!--
@@ -9,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at SSW
+- 🔭 I’m currently working at ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
